@@ -1,0 +1,5 @@
+{
+  "ip_address": <ip address of your HA server>,
+  "access_token": <Your secret HA access token>,  # FIXME:  Maybe the config is not the best place to store this???
+  "topic": "record/homeassistant"
+}
